@@ -1,0 +1,28 @@
+*
+{
+  box-sizing: border-box;
+}
+body{
+  background-color: aquamarine;
+}
+.container_1
+{
+  border: 1px solid black;
+}
+.heading
+{
+  text-align: center;
+}
+.card-body
+{
+  padding: 2%;
+  text-align: center;
+}
+.inputting , .displaying
+{
+  background-color:rgb(224, 224, 209);
+}
+.container_1
+{
+  background-color: brown;
+}
